@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smd29&label=Profile%20views&color=0e75b6&style=flat" alt="smd29" /> </p>
 
-- 📫 How to reach me **shreyasdas29@yahoo.com**
+- 📫 Reach me at: **shreyasdas29@yahoo.com**
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
