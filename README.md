@@ -6,12 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smd29&label=Profile%20views&color=0e75b6&style=flat" alt="smd29" /> </p>
 
-
+- 📫 How to reach me **shreyasdas29@yahoo.com**
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyasdas29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas das" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyasdas29/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="shreyas das" height="30" width="40" /></a>
+<a href="https://twitter.com/S_M_D_29" target="blank"><img align="center" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" alt="shreyas das" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
