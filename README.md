@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smd29&label=Profile%20views&color=0e75b6&style=flat" alt="smd29" /> </p>
 
+- 👀 I’m interested in AI, Machine Learning and DSA
+- 🌱 I’m currently exploring various domains of AI
 - 📫 Reach me at: **shreyasdas29@yahoo.com**
 - ⚡ Fun fact **I think, I am funny😅**
 
